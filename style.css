@@ -1,0 +1,22 @@
+body {
+	font-family: georgia;
+	background-image: url(http://www.psdgraphics.com/file/fresh-green-blur.jpg);
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+.date {
+	font-style: italic;
+}
